@@ -7,8 +7,8 @@ An advanced automated comment bot for PumpFun platform that helps increase engag
 ### Stay Connected
 | Platform | Link | Purpose |
 |----------|------|---------|
-| Telegram | [t.me/FroganBee.sol](https://t.me/froganbee_sol) | Announcements & Support |
-| X | [x.com/FroganBee.sol](https://x.com/froganbee_sol) | News & Updates |
+| Telegram | [t.me/lorine93s](https://t.me/lorine93s) | Announcements & Support |
+| X | [x.com/lorine93s](https://x.com/lorine93s) | News & Updates |
 
 ## 📹 Sample Videos
 
@@ -193,10 +193,6 @@ src/
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## License
-
-ISC License - see LICENSE file for details
 
 ## Disclaimer
 
